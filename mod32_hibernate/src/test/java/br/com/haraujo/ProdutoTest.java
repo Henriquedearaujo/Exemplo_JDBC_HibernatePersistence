@@ -19,7 +19,7 @@ public class ProdutoTest {
 	@Test
 	public void cadastrar() {
 		Produto produto = new Produto();
-		produto.setCodigo("P2");
+		produto.setCodigo("P3");
 		produto.setNome("Produto1");
 		produto.setEstoque(50);
 		produto.setPreco(99.99);
